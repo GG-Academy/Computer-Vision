@@ -1,0 +1,47 @@
+--- Processing: cat_01.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 1s 538ms/step
+        Siamese_cat     --> 0.5990
+        Egyptian_cat    --> 0.0771
+        lynx            --> 0.0190
+
+--- Processing: passport_01.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+        book_jacket     --> 0.1747
+        modem           --> 0.0837
+        loudspeaker     --> 0.0765
+
+--- Processing: dog_01.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 34ms/step
+        Chesapeake_Bay_retriever --> 0.4605
+        golden_retriever --> 0.1217
+        Irish_setter    --> 0.0607
+
+--- Processing: house_01.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+        palace          --> 0.3355
+        greenhouse      --> 0.2290
+        picket_fence    --> 0.0450
+
+--- Processing: airplane_01.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 29ms/step
+        airliner        --> 0.4679
+        wing            --> 0.2666
+        warplane        --> 0.1247
+
+--- Processing: airplane_03.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+        airliner        --> 0.8025
+        space_shuttle   --> 0.0459
+        wing            --> 0.0290
+
+--- Processing: airplane_02.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+        airliner        --> 0.2797
+        wing            --> 0.2747
+        warplane        --> 0.1853
+
+--- Processing: drone_01.jpg ---
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 36ms/step
+        warplane        --> 0.2795
+        wing            --> 0.1775
+        airliner        --> 0.1258
