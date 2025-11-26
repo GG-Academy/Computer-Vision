@@ -33,3 +33,17 @@
 8. images/passport_01.jpg
    Source: https://unsplash.com/photos/passport-book-RiUZQOfQ8XE
    License: Free
+
+## Course 02
+
+1. images/01-wing.jpg
+   Source: https://unsplash.com/photos/person-taking-photo-of-white-and-orange-plane-under-blue-sky-Rch8oP-O5sU
+   License: Free
+
+2. images/02-night.jpg
+   Source: https://unsplash.com/photos/a-city-skyline-at-night-UW-x4vc9Z2M
+   License: Free
+
+3. images/03-satellite.jpg
+   Source: https://unsplash.com/photos/aerial-view-of-city-buildings-during-night-time-Q-tzZuNU-XI
+   License: Free
