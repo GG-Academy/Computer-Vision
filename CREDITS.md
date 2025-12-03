@@ -47,3 +47,9 @@
 3. images/03-satellite.jpg
    Source: https://unsplash.com/photos/aerial-view-of-city-buildings-during-night-time-Q-tzZuNU-XI
    License: Free
+
+## Course 03
+
+1. images/01-airport.jpg
+   Source: https://unsplash.com/photos/gray-airplane-on-parking-RSYBi_1fhfM
+   License: Free
