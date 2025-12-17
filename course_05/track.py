@@ -11,8 +11,11 @@ tracker = Sort(max_age=20, min_hits=3, iou_threshold=0.3)
 
 # Open video file
 cap = cv2.VideoCapture("videos/plane.mov")
+frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+k = 0
 
 while cap.isOpened():
+    k += 1
     ret, frame = cap.read()
     if not ret:
         break
@@ -56,6 +59,9 @@ while cap.isOpened():
     cv2.imshow("Object Tracking", frame)
 
     if cv2.waitKey(1) & 0xFF == ord("q"):
+        break
+
+    if k == frame_count:
         break
 
 cap.release()
