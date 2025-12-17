@@ -67,3 +67,9 @@
 3. images/03-crash.jpg
     Source: https://unsplash.com/photos/a-plane-that-is-sitting-in-the-dirt-3PR0qILAQN4
     License: Free
+
+## Course 05
+
+1. videos/plane.mov
+    Source: https://www.vecteezy.com/video/9007368-moscow-russian-federation-september-12-2020-aeroflot-passenger-plane-arrives-at-sheremetyevo-airport-moscow-airbus-a320-214-vp-bil-flies-to-land-in-a-cloudy-sky-tourism-concept
+    License: Free
